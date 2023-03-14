@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Min-Max String">
+   </FileRef>
+   <FileRef
+      location = "group:Digit Swap">
+   </FileRef>
+   <FileRef
+      location = "group:Greatest Common Denominator">
+   </FileRef>
+   <FileRef
+      location = "group:Min-Max Digit">
+   </FileRef>
+   <FileRef
+      location = "group:Digit Range">
+   </FileRef>
+   <FileRef
+      location = "group:Dating Range">
+   </FileRef>
+   <FileRef
+      location = "group:Quadratic Problem">
+   </FileRef>
+   <FileRef
+      location = "group:Body Mass Index">
+   </FileRef>
+   <FileRef
+      location = "group:Leet String Problem">
+   </FileRef>
+   <FileRef
+      location = "group:Factor Count">
+   </FileRef>
+   <FileRef
+      location = "group:Name Diamond">
+   </FileRef>
+   <FileRef
+      location = "group:Swap Pairs">
+   </FileRef>
+   <FileRef
+      location = "group:Crazy Caps">
+   </FileRef>
+   <FileRef
+      location = "group:Binary to Decimal">
+   </FileRef>
+   <FileRef
+      location = "group:Decimal to Binary">
+   </FileRef>
+</Workspace>
